@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Versios Specification
+Flutter version: 3.24.3
+JAVA: JDK 17 or above
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
