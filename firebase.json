@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"neuro-task","appId":"1:583039940780:android:f06c6e4cbac64ae2a94709","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"neuro-task","configurations":{"android":"1:583039940780:android:f06c6e4cbac64ae2a94709","ios":"1:583039940780:ios:5cd3c783bc9ac7cba94709"}}}}}}

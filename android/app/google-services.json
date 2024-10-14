@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583039940780",
+    "project_id": "neuro-task",
+    "storage_bucket": "neuro-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583039940780:android:63fe390ac0ccceeca94709",
+        "android_client_info": {
+          "package_name": "com.example.neuro_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaliFkv6Oaoe2WKokUHAzyA6BfRXK6EHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583039940780:android:f06c6e4cbac64ae2a94709",
+        "android_client_info": {
+          "package_name": "com.example.neuro_task_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaliFkv6Oaoe2WKokUHAzyA6BfRXK6EHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
